@@ -1,0 +1,12 @@
+C:\Users\christian.morales\Downloads\Repo\IntroToMediatR\DemoLibrary\bin\Debug\net5.0\DemoLibrary.deps.json
+C:\Users\christian.morales\Downloads\Repo\IntroToMediatR\DemoLibrary\bin\Debug\net5.0\DemoLibrary.dll
+C:\Users\christian.morales\Downloads\Repo\IntroToMediatR\DemoLibrary\bin\Debug\net5.0\ref\DemoLibrary.dll
+C:\Users\christian.morales\Downloads\Repo\IntroToMediatR\DemoLibrary\bin\Debug\net5.0\DemoLibrary.pdb
+C:\Users\christian.morales\Downloads\Repo\IntroToMediatR\DemoLibrary\obj\Debug\net5.0\DemoLibrary.csprojAssemblyReference.cache
+C:\Users\christian.morales\Downloads\Repo\IntroToMediatR\DemoLibrary\obj\Debug\net5.0\DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\christian.morales\Downloads\Repo\IntroToMediatR\DemoLibrary\obj\Debug\net5.0\DemoLibrary.AssemblyInfoInputs.cache
+C:\Users\christian.morales\Downloads\Repo\IntroToMediatR\DemoLibrary\obj\Debug\net5.0\DemoLibrary.AssemblyInfo.cs
+C:\Users\christian.morales\Downloads\Repo\IntroToMediatR\DemoLibrary\obj\Debug\net5.0\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\christian.morales\Downloads\Repo\IntroToMediatR\DemoLibrary\obj\Debug\net5.0\DemoLibrary.dll
+C:\Users\christian.morales\Downloads\Repo\IntroToMediatR\DemoLibrary\obj\Debug\net5.0\ref\DemoLibrary.dll
+C:\Users\christian.morales\Downloads\Repo\IntroToMediatR\DemoLibrary\obj\Debug\net5.0\DemoLibrary.pdb
