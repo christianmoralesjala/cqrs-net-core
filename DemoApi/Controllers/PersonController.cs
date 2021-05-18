@@ -1,6 +1,6 @@
-﻿using DemoLibrary.Commands;
-using DemoLibrary.Models;
-using DemoLibrary.Queries;
+﻿using MainLibrary.Commands;
+using MainLibrary.Models;
+using MainLibrary.Queries;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using System;

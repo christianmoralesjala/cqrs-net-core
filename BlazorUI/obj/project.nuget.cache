@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a390+wTmEz0vzpYeYioQ+3hTz6c/zkFKzT9LeRm1Rr7O26nM0uPfujkno/kF8b9l6k/WnobJypaQ1Rxl7Ne44A==",
+  "dgSpecHash": "iHXeh8BuvYr+wTv8t/qR6eOrS+EStGIq0PEirv8kK8tY1DTPzM/3cRN8ZHHEAvuZP6recY3H+fNjiIMMcUWJQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\christian.morales\\Downloads\\Repo\\IntroToMediatR\\BlazorUI\\BlazorUI.csproj",
+  "projectFilePath": "C:\\Users\\christian.morales\\Desktop\\enterview\\BlazorUI\\BlazorUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\christian.morales\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\christian.morales\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",

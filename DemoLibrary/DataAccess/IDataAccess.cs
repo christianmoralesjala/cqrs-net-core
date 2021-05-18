@@ -1,7 +1,7 @@
-﻿using DemoLibrary.Models;
+﻿using MainLibrary.Models;
 using System.Collections.Generic;
 
-namespace DemoLibrary.DataAccess
+namespace MainLibrary.DataAccess
 {
     public interface IDataAccess
     {

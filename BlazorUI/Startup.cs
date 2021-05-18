@@ -1,6 +1,6 @@
 using BlazorUI.Data;
-using DemoLibrary;
-using DemoLibrary.DataAccess;
+using MainLibrary;
+using MainLibrary.DataAccess;
 using MediatR;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Components;

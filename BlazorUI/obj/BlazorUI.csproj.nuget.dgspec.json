@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\christian.morales\\Downloads\\Repo\\IntroToMediatR\\BlazorUI\\BlazorUI.csproj": {}
+    "C:\\Users\\christian.morales\\Desktop\\enterview\\BlazorUI\\BlazorUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\christian.morales\\Downloads\\Repo\\IntroToMediatR\\BlazorUI\\BlazorUI.csproj": {
+    "C:\\Users\\christian.morales\\Desktop\\enterview\\BlazorUI\\BlazorUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\christian.morales\\Downloads\\Repo\\IntroToMediatR\\BlazorUI\\BlazorUI.csproj",
+        "projectUniqueName": "C:\\Users\\christian.morales\\Desktop\\enterview\\BlazorUI\\BlazorUI.csproj",
         "projectName": "BlazorUI",
-        "projectPath": "C:\\Users\\christian.morales\\Downloads\\Repo\\IntroToMediatR\\BlazorUI\\BlazorUI.csproj",
+        "projectPath": "C:\\Users\\christian.morales\\Desktop\\enterview\\BlazorUI\\BlazorUI.csproj",
         "packagesPath": "C:\\Users\\christian.morales\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\christian.morales\\Downloads\\Repo\\IntroToMediatR\\BlazorUI\\obj\\",
+        "outputPath": "C:\\Users\\christian.morales\\Desktop\\enterview\\BlazorUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\christian.morales\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -30,8 +30,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\christian.morales\\Downloads\\Repo\\IntroToMediatR\\DemoLibrary\\DemoLibrary.csproj": {
-                "projectPath": "C:\\Users\\christian.morales\\Downloads\\Repo\\IntroToMediatR\\DemoLibrary\\DemoLibrary.csproj"
+              "C:\\Users\\christian.morales\\Desktop\\enterview\\DemoLibrary\\MainLibrary.csproj": {
+                "projectPath": "C:\\Users\\christian.morales\\Desktop\\enterview\\DemoLibrary\\MainLibrary.csproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\christian.morales\\Downloads\\Repo\\IntroToMediatR\\DemoLibrary\\DemoLibrary.csproj": {
+    "C:\\Users\\christian.morales\\Desktop\\enterview\\DemoLibrary\\MainLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\christian.morales\\Downloads\\Repo\\IntroToMediatR\\DemoLibrary\\DemoLibrary.csproj",
-        "projectName": "DemoLibrary",
-        "projectPath": "C:\\Users\\christian.morales\\Downloads\\Repo\\IntroToMediatR\\DemoLibrary\\DemoLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\christian.morales\\Desktop\\enterview\\DemoLibrary\\MainLibrary.csproj",
+        "projectName": "MainLibrary",
+        "projectPath": "C:\\Users\\christian.morales\\Desktop\\enterview\\DemoLibrary\\MainLibrary.csproj",
         "packagesPath": "C:\\Users\\christian.morales\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\christian.morales\\Downloads\\Repo\\IntroToMediatR\\DemoLibrary\\obj\\",
+        "outputPath": "C:\\Users\\christian.morales\\Desktop\\enterview\\DemoLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\christian.morales\\AppData\\Roaming\\NuGet\\NuGet.Config",

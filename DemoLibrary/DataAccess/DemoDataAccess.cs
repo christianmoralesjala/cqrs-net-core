@@ -1,11 +1,8 @@
-﻿using DemoLibrary.Models;
-using System;
+﻿using MainLibrary.Models;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace DemoLibrary.DataAccess
+namespace MainLibrary.DataAccess
 {
     public class DemoDataAccess : IDataAccess
     {
@@ -13,8 +10,9 @@ namespace DemoLibrary.DataAccess
 
         public DemoDataAccess()
         {
-            people.Add(new PersonModel { Id = 1, FirstName = "Tim", LastName = "Corey" });
-            people.Add(new PersonModel { Id = 2, FirstName = "Sue", LastName = "Storm" });
+            people.Add(new PersonModel { Id = 2, FirstName = "Elton", LastName = "Cassas" });
+            people.Add(new PersonModel { Id = 2, FirstName = "Andy", LastName = "Camacho" });
+            people.Add(new PersonModel { Id = 1, FirstName = "Christian", LastName = "Morales" });
         }
 
         public List<PersonModel> GetPeople()

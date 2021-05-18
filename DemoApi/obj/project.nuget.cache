@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vqlb2PgXMZbWW3Dny5LnvbJOLKeWxW/aNLPLUw8DG22HKhqXVgjgybzlgOavsDoAq5WeCHp8hGDxnpZ4F2Hrxg==",
+  "dgSpecHash": "3wkgFqlEZbUKVz8QXIyoMMu+Cr1n63YcWABmcxfmzGxFOsOcXkjyE7BKeD5ARUC348UePTtKYpxVmUOZgP48nw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\christian.morales\\Downloads\\Repo\\IntroToMediatR\\DemoApi\\DemoApi.csproj",
+  "projectFilePath": "C:\\Users\\christian.morales\\Desktop\\enterview\\DemoApi\\DemoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\christian.morales\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\christian.morales\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",

@@ -1,14 +1,11 @@
-﻿using DemoLibrary.Models;
-using DemoLibrary.Queries;
+﻿using MainLibrary.Models;
+using MainLibrary.Queries;
 using MediatR;
-using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace DemoLibrary.Handlers
+namespace MainLibrary.Handlers
 {
     public class GetPersonByIdHandler : IRequestHandler<GetPersonByIdQuery, PersonModel>
     {

@@ -1,15 +1,11 @@
-﻿using DemoLibrary.Commands;
-using DemoLibrary.DataAccess;
-using DemoLibrary.Models;
+﻿using MainLibrary.Commands;
+using MainLibrary.DataAccess;
+using MainLibrary.Models;
 using MediatR;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace DemoLibrary.Handlers
+namespace MainLibrary.Handlers
 {
     public class InsertPersonHandler : IRequestHandler<InsertPersonCommand, PersonModel>
     {

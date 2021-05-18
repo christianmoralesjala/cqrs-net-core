@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wg/YtjH/mFu7XhFW422vPDXHwFZwLNz8Ereq9CtJem2m4Dimv6bc0tix27EYetXNYgwLoYkWgZWzQVS6dLU56A==",
+  "dgSpecHash": "IYPi0+Il6KAp/bHwTruyVbG+opd0J1SE8I1kRB4omyK5gT99CZehHB2YMY7R7UwDbLnevqlEYPoRiUDARCXXuA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\christian.morales\\Downloads\\Repo\\IntroToMediatR\\DemoLibrary\\DemoLibrary.csproj",
+  "projectFilePath": "C:\\Users\\christian.morales\\Desktop\\enterview\\DemoLibrary\\MainLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\christian.morales\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
   ],

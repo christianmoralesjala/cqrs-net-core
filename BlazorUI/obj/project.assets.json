@@ -33,17 +33,17 @@
           "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
         }
       },
-      "DemoLibrary/1.0.0": {
+      "MainLibrary/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "MediatR": "9.0.0"
         },
         "compile": {
-          "bin/placeholder/DemoLibrary.dll": {}
+          "bin/placeholder/MainLibrary.dll": {}
         },
         "runtime": {
-          "bin/placeholder/DemoLibrary.dll": {}
+          "bin/placeholder/MainLibrary.dll": {}
         }
       }
     }
@@ -93,15 +93,15 @@
         "microsoft.extensions.dependencyinjection.abstractions.nuspec"
       ]
     },
-    "DemoLibrary/1.0.0": {
+    "MainLibrary/1.0.0": {
       "type": "project",
-      "path": "../DemoLibrary/DemoLibrary.csproj",
-      "msbuildProject": "../DemoLibrary/DemoLibrary.csproj"
+      "path": "../DemoLibrary/MainLibrary.csproj",
+      "msbuildProject": "../DemoLibrary/MainLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "DemoLibrary >= 1.0.0",
+      "MainLibrary >= 1.0.0",
       "MediatR.Extensions.Microsoft.DependencyInjection >= 9.0.0"
     ]
   },
@@ -111,11 +111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\christian.morales\\Downloads\\Repo\\IntroToMediatR\\BlazorUI\\BlazorUI.csproj",
+      "projectUniqueName": "C:\\Users\\christian.morales\\Desktop\\enterview\\BlazorUI\\BlazorUI.csproj",
       "projectName": "BlazorUI",
-      "projectPath": "C:\\Users\\christian.morales\\Downloads\\Repo\\IntroToMediatR\\BlazorUI\\BlazorUI.csproj",
+      "projectPath": "C:\\Users\\christian.morales\\Desktop\\enterview\\BlazorUI\\BlazorUI.csproj",
       "packagesPath": "C:\\Users\\christian.morales\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\christian.morales\\Downloads\\Repo\\IntroToMediatR\\BlazorUI\\obj\\",
+      "outputPath": "C:\\Users\\christian.morales\\Desktop\\enterview\\BlazorUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\christian.morales\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -134,8 +134,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\christian.morales\\Downloads\\Repo\\IntroToMediatR\\DemoLibrary\\DemoLibrary.csproj": {
-              "projectPath": "C:\\Users\\christian.morales\\Downloads\\Repo\\IntroToMediatR\\DemoLibrary\\DemoLibrary.csproj"
+            "C:\\Users\\christian.morales\\Desktop\\enterview\\DemoLibrary\\MainLibrary.csproj": {
+              "projectPath": "C:\\Users\\christian.morales\\Desktop\\enterview\\DemoLibrary\\MainLibrary.csproj"
             }
           }
         }

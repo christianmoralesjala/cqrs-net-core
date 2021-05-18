@@ -25,7 +25,7 @@
     ".NETCoreApp,Version=v5.0": {
       "DemoApi/1.0.0": {
         "dependencies": {
-          "DemoLibrary": "1.0.0",
+          "MainLibrary": "1.0.0",
           "MediatR.Extensions.Microsoft.DependencyInjection": "9.0.0",
           "Swashbuckle.AspNetCore": "5.6.3",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
@@ -405,15 +405,15 @@
           "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {}
         }
       },
-      "DemoLibrary/1.0.0": {
+      "MainLibrary/1.0.0": {
         "dependencies": {
           "MediatR": "9.0.0"
         },
         "runtime": {
-          "DemoLibrary.dll": {}
+          "MainLibrary.dll": {}
         },
         "compile": {
-          "DemoLibrary.dll": {}
+          "MainLibrary.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
@@ -2185,7 +2185,7 @@
       "path": "swashbuckle.aspnetcore.swaggerui/5.6.3",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
     },
-    "DemoLibrary/1.0.0": {
+    "MainLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
